@@ -153,7 +153,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: url(../img/header_photo2.jpg) no-repeat center top;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
@@ -161,6 +161,7 @@ a:after {
 	background-position: center center;
 	min-height: 500px;
 	width: 100%;
+	opacity: 0.7;
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -286,3 +287,8 @@ sm {
 .right-titles{
 	color:#ffffff;
 }
+/*img dimensions*/
+
+ .profile-img{
+	 width:150px;
+ }
