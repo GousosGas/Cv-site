@@ -27,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Theme/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-880">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="-678">
+              <caret line="241" column="28" selection-start-line="241" selection-start-column="28" selection-end-line="241" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -200,7 +200,7 @@
       <updated>1487529736408</updated>
       <workItem from="1487529737727" duration="957000" />
       <workItem from="1487565570030" duration="7526000" />
-      <workItem from="1487576937105" duration="3299000" />
+      <workItem from="1487576937105" duration="7760000" />
     </task>
     <task id="LOCAL-00001" summary="before updating to bootsrap 4">
       <created>1487570033800</created>
@@ -209,11 +209,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487570033800</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Education Section Fixed">
+      <created>1487580732827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487580732827</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11782000" />
+    <option name="totallyTimeSpent" value="16243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -252,7 +259,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="before updating to bootsrap 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="before updating to bootsrap 4" />
+    <MESSAGE value="Education Section Fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Education Section Fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -325,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Theme/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-880">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="-678">
+          <caret line="241" column="28" selection-start-line="241" selection-start-column="28" selection-end-line="241" selection-end-column="28" />
           <folding />
         </state>
       </provider>
