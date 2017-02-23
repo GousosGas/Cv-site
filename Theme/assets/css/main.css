@@ -292,3 +292,13 @@ sm {
  .profile-img{
 	 width:150px;
  }
+
+
+ /*514*/
+
+ @media screen and (max-width: 514px) {
+	 #headerwrap h1 {
+		 font-size: 50px;
+	 }
+ }
+

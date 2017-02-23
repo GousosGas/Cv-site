@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="043d5f4c-eddb-42e6-8f57-e6c50b345064" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/assets/js/formValidation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/includes/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/includes/certificates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/includes/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/includes/education.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/includes/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/includes/head.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/includes/headerwrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/includes/navigation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/includes/skills.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/includes/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Theme/includes/work.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Theme/index.html" afterPath="$PROJECT_DIR$/Theme/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Theme/assets/css/main.css" afterPath="$PROJECT_DIR$/Theme/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Theme/assets/js/smoothscroll.js" afterPath="$PROJECT_DIR$/Theme/assets/js/smoothscroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Theme/includes/headerwrap.php" afterPath="$PROJECT_DIR$/Theme/includes/headerwrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Theme/includes/work.php" afterPath="$PROJECT_DIR$/Theme/includes/work.php" />
     </list>
     <ignored path="newcv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,61 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Theme/includes/contact.php">
+      <file leaf-file-name="headerwrap.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Theme/includes/headerwrap.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+            <state relative-caret-position="198">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validation.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Theme/includes/validation.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Theme/includes/head.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Theme/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Theme/includes/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="formValidation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Theme/assets/js/formValidation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="586">
+              <caret line="298" column="0" selection-start-line="298" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -117,8 +65,6 @@
         <option value="$PROJECT_DIR$/Theme/includes/about.php" />
         <option value="$PROJECT_DIR$/Theme/includes/education.php" />
         <option value="$PROJECT_DIR$/Theme/includes/certificates.php" />
-        <option value="$PROJECT_DIR$/Theme/includes/headerwrap.php" />
-        <option value="$PROJECT_DIR$/Theme/includes/work.php" />
         <option value="$PROJECT_DIR$/Theme/includes/navigation.php" />
         <option value="$PROJECT_DIR$/Theme/includes/skills.php" />
         <option value="$PROJECT_DIR$/Theme/assets/js/smoothscroll.js" />
@@ -127,8 +73,10 @@
         <option value="$PROJECT_DIR$/Theme/includes/contact.php" />
         <option value="$PROJECT_DIR$/Theme/includes/validation.php" />
         <option value="$PROJECT_DIR$/Theme/assets/js/formValidation.js" />
-        <option value="$PROJECT_DIR$/Theme/assets/css/main.css" />
         <option value="$PROJECT_DIR$/Theme/includes/footer.php" />
+        <option value="$PROJECT_DIR$/Theme/includes/work.php" />
+        <option value="$PROJECT_DIR$/Theme/includes/headerwrap.php" />
+        <option value="$PROJECT_DIR$/Theme/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -203,6 +151,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newcv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newcv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -350,7 +316,7 @@
       <workItem from="1487565570030" duration="7526000" />
       <workItem from="1487576937105" duration="10719000" />
       <workItem from="1487653447924" duration="5985000" />
-      <workItem from="1487843361348" duration="15080000" />
+      <workItem from="1487843361348" duration="16782000" />
     </task>
     <task id="LOCAL-00001" summary="before updating to bootsrap 4">
       <created>1487570033800</created>
@@ -387,11 +353,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487659460694</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Contact form completed&#10;this is testing v1">
+      <created>1487861028804</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1487861028804</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40267000" />
+    <option name="totallyTimeSpent" value="41969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -434,7 +407,8 @@
     <MESSAGE value="work Section Fixed v1" />
     <MESSAGE value="Certification Section Fixed v1" />
     <MESSAGE value="Skills And Contact form Section Fixed v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Skills And Contact form Section Fixed v1" />
+    <MESSAGE value="Contact form completed&#10;this is testing v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contact form completed&#10;this is testing v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -561,38 +535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Theme/includes/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Theme/includes/headerwrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Theme/includes/certificates.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="686">
-          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Theme/includes/skills.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Theme/assets/js/smoothscroll.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2732">
@@ -603,10 +545,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Theme/includes/navigation.php">
+    <entry file="file://$PROJECT_DIR$/Theme/assets/js/formValidation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+        <state relative-caret-position="682">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -619,6 +569,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/includes/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/includes/skills.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7894">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/includes/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/includes/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Theme/includes/education.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -627,18 +617,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Theme/index.php">
+    <entry file="file://$PROJECT_DIR$/Theme/includes/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Theme/includes/head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="616">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -651,34 +633,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Theme/includes/validation.php">
+    <entry file="file://$PROJECT_DIR$/Theme/includes/certificates.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        <state relative-caret-position="1518">
+          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Theme/assets/js/formValidation.js">
+    <entry file="file://$PROJECT_DIR$/Theme/includes/headerwrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Theme/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Theme/includes/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+        <state relative-caret-position="586">
+          <caret line="298" column="0" selection-start-line="298" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
           <folding />
         </state>
       </provider>
