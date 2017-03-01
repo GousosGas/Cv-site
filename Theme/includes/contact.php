@@ -17,9 +17,17 @@
                     <input type="text" class="form-control" id="InputEmail1" name="InputEmail1" aria-describedby="emailHelp"
                            placeholder="yourname@name.com">
                 </div>
+
                 <div class="form-group">
                     <label for="InputSubject">Subject</label>
                     <input type="text" class="form-control" id="InputSubject" name="InputSubject" placeholder="Enter your Subject">
+                    <div id="error-subject"></div>
+
+                </div>
+
+                <div class="form-group">
+                    <label for="InputName">Name</label>
+                    <input type="text" class="form-control" id="InputName" name="InputName" >
                     <div id="error-subject"></div>
 
                 </div>

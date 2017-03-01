@@ -1,4 +1,5 @@
 <section id="about" name="about"></section>
+
 <div id="intro">
     <div class="container">
         <div class="row">
@@ -13,9 +14,9 @@
                     Applications” and I have a degree from Computer Science and Telecommunications department of the
                     Technological Educational Institute (TEI) of Larissa (Greece).
                 </p>
-                <button type="button" class="btn btn-sm btn-outline-secondary"><i class="fa fa-download"
+                <a class="btn btn-sm btn-outline-secondary"  href="./assets/pdf/resumeEn.pdf" download="gousopoulos_cv"><i class="fa fa-download"
                                                                                   aria-hidden="true"></i> Resume
-                </button>
+                </a>
 
             </div>
             <div class="col-lg-3">

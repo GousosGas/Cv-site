@@ -15,6 +15,10 @@ $("form").submit(function (e) {
     if ($("#InputSubject").val() == "") {
         errorMessage += "The subject field is required!<br>";
     }
+
+    if ($("#InputName").val() == "") {
+        errorMessage += "The name field is required!<br>";
+    }
     if ($("#Textarea").val() == "") {
         errorMessage += "The message field is required!";
     }

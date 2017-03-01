@@ -14,6 +14,10 @@ if($_POST){
         $error.="The subject is required.<br>";
     }
 
+    if(!$_POST["InputName"]){
+        $error.="The name is required.<br>";
+    }
+
     if(!$_POST["TextArea"]){
         $error.="The message  is required.<br>";
     }
