@@ -1,3 +1,5 @@
+<!--About Section-->
+
 <section id="about" name="about"></section>
 
 <div id="intro">
@@ -9,18 +11,16 @@
                 <h5 class="right-titles">ABOUT ME <i class="fa fa-caret-right" aria-hidden="true"></i></h5>
             </div>
             <div class="col-lg-7">
-                <p>I'm a Software & Android Developer with 2 years of experience in Web Development. I am an
-                    undergraduate in the Master of Science (MSc) program “Software Engineering for Internet and Mobile
-                    Applications” and I have a degree from Computer Science and Telecommunications department of the
-                    Technological Educational Institute (TEI) of Larissa (Greece).
+                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ipsum lorem, varius vel odio ac, maximus posuere odio. Duis sollicitudin ante sed ipsum vulputate auctor. Aenean posuere est ex, ut placerat nisi feugiat nec. Suspendisse egestas sagittis lorem a rhoncus. Nam ut imperdiet nisl, vitae interdum lorem. Fusce nulla magna, imperdiet quis mi id, vulputate bibendum ante. Duis ullamcorper placerat lectus in iaculis. Etiam molestie lobortis tincidunt. Mauris semper sit amet tortor in vestibulum. Proin vitae congue mi.
                 </p>
-                <a class="btn btn-sm btn-outline-secondary"  href="./assets/pdf/resumeEn.pdf" download="gousopoulos_cv"><i class="fa fa-download"
+                <a class="btn btn-sm btn-outline-secondary"  href="#" download="name_cv"><i class="fa fa-download"
                                                                                   aria-hidden="true"></i> Resume
                 </a>
 
+
             </div>
             <div class="col-lg-3">
-                <!-- <img class="profile-img rounded-circle" src="assets/img/tei.jpg">-->
+
 
             </div>
 

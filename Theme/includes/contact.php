@@ -1,7 +1,7 @@
 <?php require 'includes/validation.php' ?>
 
 <section id="email" name="email"></section>
-<!--PORTFOLIO DESCRIPTION -->
+<!--Contact Section -->
 <div class="container desc">
     <div class="row">
         <div class="col-lg-2 col-lg-offset-1">
@@ -15,12 +15,12 @@
                 <div class="form-group">
                     <label for="InputEmail1">Email address</label>
                     <input type="text" class="form-control" id="InputEmail1" name="InputEmail1" aria-describedby="emailHelp"
-                           placeholder="yourname@name.com">
+                           >
                 </div>
 
                 <div class="form-group">
                     <label for="InputSubject">Subject</label>
-                    <input type="text" class="form-control" id="InputSubject" name="InputSubject" placeholder="Enter your Subject">
+                    <input type="text" class="form-control" id="InputSubject" name="InputSubject" >
                     <div id="error-subject"></div>
 
                 </div>

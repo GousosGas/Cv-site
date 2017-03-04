@@ -27,7 +27,7 @@ if($_POST){
         $error='<div class="alert alert-danger" role ="alert"><strong>There were some error(s) in the form :</strong><br>'.$error.'</div>';
     }
     else{
-        $emailTo="kgousopoulos@gmail.com";
+        $emailTo="your@email.com";
         $subject = $_POST["InputSubject"];
         $message = $_POST["TextArea"];
         $headers = "From:".$_POST["InputEmail1"];

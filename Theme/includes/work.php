@@ -9,10 +9,10 @@
             <p>
                 <t>Web Developer</t>
                 <br/>
-                Readmore Creative, Larissa (Greece) <br/>
+                Site Creative, Larissa (Greece) <br/>
             </p>
             <p class="text-muted">
-                As a member of Readmore’s team my responsibilities was:
+                As a member of  team my responsibilities was:
             <ul>
                 <li class="text-muted">The designing and development of WebSites</li>
                 <li class="text-muted">The designing and development of e-shops</li>
@@ -54,7 +54,7 @@
             <p>
                 <t>Web Developer</t>
                 </br>
-                ItBiz Digital Agency, Larissa (Greece) <br/>
+                Digital Agency, Larissa (Greece) <br/>
             </p>
             <p class="text-muted">
                 As a member of ItBiz’s Digital Agency team my responsibilities was:
